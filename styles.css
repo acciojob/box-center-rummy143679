@@ -7,12 +7,14 @@ body{
 	margin:0;
 }
 #box{
-	color:purple;
 	background-color:lightblue;
 	width:200px;
-	height:200px;
+	height:200px; 
 	border:2px solid black;
 	display:flex;
 	justify-content:center;
 	align-items:center;
+}
+p{
+	color:purple;
 }
